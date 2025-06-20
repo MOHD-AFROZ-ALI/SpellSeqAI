@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="readme_assets/WhiteX@2x.png" width="30%">
-</div>
+
 <h1 align="center">End-to-End MLOps: From Data to Deployment</h1>
 <p align="center">
   <a href="https://www.python.org/"><img alt="Python Version" src="https://img.shields.io/badge/Python-3.6%2B-informational"></a>
-  <a href="https://github.com/IbLahlou/SpellX"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repo-blue"></a>
+  <a href="https://github.com/MOHD-AFROZ-ALI/SpellSeqAI"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repo-blue"></a>
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-Latest-blue"></a>
 </p>
 
